@@ -410,6 +410,10 @@ FodyWeavers.xsd
 # Built Visual Studio Code Extensions
 *.vsix
 
+# Google Calendar API credentials and tokens
+credentials.json
+tokens/
+
 # Windows Installer files from build outputs
 *.cab
 *.msi
